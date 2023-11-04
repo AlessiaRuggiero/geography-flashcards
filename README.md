@@ -9,3 +9,9 @@
 ### BINDED RETURN KEY - In addition to the on-screen 'Enter' button, users have the ability to submit their responses via the 'Return' button on their keyboard, which allows for faster study sessions.
 ##
 ### Executable to be posted soon!
+<img width="483" alt="Screenshot 2023-11-04 at 13 55 59" src="https://github.com/AlessiaRuggiero/geography-flashcards/assets/92544861/2739b029-2b13-44e8-afd7-11169c99ccb0"><img width="481" alt="Screenshot 2023-11-04 at 13 56 42" src="https://github.com/AlessiaRuggiero/geography-flashcards/assets/92544861/745debd4-d064-4739-9afe-42977cbdb513">
+<img width="502" alt="Screenshot 2023-11-04 at 14 32 58" src="https://github.com/AlessiaRuggiero/geography-flashcards/assets/92544861/8a09feb7-92dd-4f13-aeb7-04a1fa519662">
+
+
+
+
